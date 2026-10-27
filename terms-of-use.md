@@ -9,9 +9,7 @@ These Terms of Use govern your access to and use of the **Service**. By creating
 For the purposes of these Terms, the **Service** means the shortlistOS website, the hosted shortlistOS application, Powerpack, Magic Inbox, the Web Clipper, hosted APIs, and related service subdomains operated by:
 
 - **Petr Nagy**
-- Mariánské nám. 5
-- 110 00 Staré Město
-- Prague, Czechia
+- Address: [Průmyslová 1306, 102 00 Praha 15-Hostivař](https://maps.google.com/maps?vet=10CAAQoqAOahcKEwioqc3IjtuXAxUAAAAAHQAAAAAQPw..i&udm&fvr=1&pvq=Cg0vZy8xMWR6emxxbmIy&cs=0&um=1&ie=UTF-8&fb=1&gl=cz&sa=X&ftid=0x470b928b43445751:0x32337708ff2e4ede)
 - IČO: 88074625
 - Website: petrnagy.cz
 - Email: privacy@shortlistos.co
@@ -273,9 +271,7 @@ A delay or failure to enforce a provision does not permanently waive the right t
 Questions, complaints, withdrawal notices, or legal notices may be sent to:
 
 - **Petr Nagy**
-- Mariánské nám. 5
-- 110 00 Staré Město
-- Prague, Czechia
+- Address: [Průmyslová 1306, 102 00 Praha 15-Hostivař](https://maps.google.com/maps?vet=10CAAQoqAOahcKEwioqc3IjtuXAxUAAAAAHQAAAAAQPw..i&udm&fvr=1&pvq=Cg0vZy8xMWR6emxxbmIy&cs=0&um=1&ie=UTF-8&fb=1&gl=cz&sa=X&ftid=0x470b928b43445751:0x32337708ff2e4ede)
 - IČO: 88074625
 - Email: privacy@shortlistos.co
 
@@ -283,7 +279,7 @@ Questions, complaints, withdrawal notices, or legal notices may be sent to:
 
 Complete and send this form only if you wish to withdraw from a Powerpack purchase. A normal email or other clear statement is also sufficient.
 
-> To: Petr Nagy, Mariánské nám. 5, 110 00 Staré Město, Prague, Czechia
+> To: Petr Nagy, [Průmyslová 1306, 102 00 Praha 15-Hostivař](https://maps.google.com/maps?vet=10CAAQoqAOahcKEwioqc3IjtuXAxUAAAAAHQAAAAAQPw..i&udm&fvr=1&pvq=Cg0vZy8xMWR6emxxbmIy&cs=0&um=1&ie=UTF-8&fb=1&gl=cz&sa=X&ftid=0x470b928b43445751:0x32337708ff2e4ede)
 >
 > Email: privacy@shortlistos.co
 >
