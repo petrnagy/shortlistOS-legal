@@ -11,9 +11,7 @@ For the purposes of this Privacy Policy, the **Service** means the shortlistOS w
 The Service is operated by:
 
 - **Petr Nagy**
-- Mariánské nám. 5
-- 110 00 Staré Město
-- Prague, Czechia
+- Address: Průmyslová 1306, 102 00 Praha 15-Hostivař
 - Business ID: 88074625
 - Website: petrnagy.cz
 - Privacy contact: privacy@shortlistos.co
@@ -319,5 +317,5 @@ For questions, requests, or complaints about privacy, contact:
 
 - **Petr Nagy**
 - Email: privacy@shortlistos.co
-- Address: Mariánské nám. 5, 110 00 Staré Město, Prague, Czechia
+- Address: Průmyslová 1306, 102 00 Praha 15-Hostivař
 - Business ID: 88074625
